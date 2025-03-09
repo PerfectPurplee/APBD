@@ -11,4 +11,6 @@ Console.WriteLine("Change number 2");
 Console.WriteLine("Change number 3");
 
 
-Console.WriteLine(IntUtil.GetAverage([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
+Console.WriteLine(IntUtils.GetAverage([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
+
+Console.WriteLine(IntUtils.GetMax([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
